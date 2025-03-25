@@ -1,11 +1,21 @@
 # Biwon Project
 
-About Biwon (비원) 🍽️
+프로젝트 비원(🍽️) 소개
 
-Biwon is the name of our cafeteria, located on B1 (Basement Level 1). Our company operates multiple cafeterias, and we must select Biwon from Hyteria, the meal plan website to view its menu. However, since I exclusively dine at Biwon, I only need to focus on this cafeteria’s menu.
+비원은 SK 회사 지하 1층(B1)에 위치한 구내식당의 이름입니다. 
 
-Interestingly, the name Biwon sounds like “Be One”, which not only represents the name of the cafeteria but also reflects my choice to focus on just one place for meals.
+여러 개의 구내식당을 운영하고 있으며, 식단 확인을 위해 ‘하이테리아’라는 웹사이트를 이용합니다. 
 
-Beyond just a place to eat, Biwon is also a space for connection. Here, we can exchange thoughts about the food, engage in conversations, and build closer relationships over meals.
+하지만 저는 스칼라 참여 교육생으로 오직 비원만 이용하기 때문에, 이 비원이라는 식당의 메뉴만 확인하면 충분합니다.
 
-Biwon is where both sides win.
+때문에 비원이 한 번에 보일 수 있도록 한 번에 확인하는 기능을 처음으로 시작했습니다.
+
+흥미로운 점은, 비원이라는 이름이 영어로 “Be One”처럼 들린다는 동음이의어입니다. 
+
+이는 단순히 식당의 이름을 넘어, 오늘 먹은 식사, 그 전에 먹었던 식사, 앞으로 먹을 식사 이야기를 나누면서,
+
+식사를 통해 모두가 하나가 된다는 의미를 내포합니다. 비원은 단순히 식사를 위한 공간을 넘어, 대화를 통해 관계를 쌓아갈 수 있는 소중한 장소입니다.
+
+음식을 매개로, 연결되고 가까워지는, 비원입니다. 또한 bi + won, 일거양득의 의미도 함께합니다. 
+
+함께 성취하길 바라면서.
