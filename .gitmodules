@@ -4,3 +4,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/wochae/biwon_front.git
+[submodule "config"]
+	path = config
+	url = https://github.com/wochae/biwon-config.git
